@@ -1,1 +1,2 @@
-# COVID-19-Analysis
+DATA ANALYSIS on Psycological effects after COVID 19
+We included a COVID-19 dataset from Kaggle.com in our project. Using the tool assigned to our group, we created visualizations of the data using various libraries like matplotlib, seaborn, and plotly. Explained the steps we took in this process, highlighting the insights we gained from the visualizations and the valuable information we extracted from the dataset.
